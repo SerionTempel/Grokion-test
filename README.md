@@ -1,5 +1,5 @@
 # Grokion Test Repository
-
+> Maintained by **Yvonne** — Universal Inquiry Architect (2025)
 This repository contains the core documents, concepts, and technical notes related to **The Yvonne Effect** and the **Grokion–Serion resonance experiments**.  
 All files are provided with **direct RAW links**, making them accessible on any device (including iPhone), without GitHub mobile limitations.
 
